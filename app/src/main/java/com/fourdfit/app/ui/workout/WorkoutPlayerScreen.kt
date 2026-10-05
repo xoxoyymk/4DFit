@@ -322,7 +322,8 @@ private fun CompletionContent(
     onDone: () -> Unit,
 ) {
     val c = FourD.colors
-    val trophyScale = remember { Animatable(if (FourD.reduceMotion) 1f else 0.3f) }
+    val reduceMotion = FourD.reduceMotion
+    val trophyScale = remember { Animatable(if (reduceMotion) 1f else 0.3f) }
     LaunchedEffect(Unit) { trophyScale.animateTo(1f, spring(dampingRatio = 0.45f, stiffness = 160f)) }
     Box(Modifier.fillMaxSize()) {
         ConfettiBurst(Modifier.fillMaxSize(), play = s.saved)
