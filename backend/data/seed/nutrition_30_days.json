@@ -1,0 +1,666 @@
+{
+  "version": 1,
+  "disclaimer": "General wellness guidance only — not medical or dietary advice. Adapt meals to allergies, preferences and needs.",
+  "days": [
+    {
+      "day": 1,
+      "breakfast": {
+        "title": "Overnight oats with berries",
+        "description": "Rolled oats soaked in milk or a fortified plant drink, topped with mixed berries and a spoon of chia seeds."
+      },
+      "lunch": {
+        "title": "Quinoa power bowl",
+        "description": "Quinoa with roasted vegetables, chickpeas, leafy greens and a lemon-tahini dressing."
+      },
+      "dinner": {
+        "title": "Baked salmon with vegetables",
+        "description": "Oven-baked salmon or marinated tofu with roasted broccoli and new potatoes."
+      },
+      "snack": {
+        "title": "Apple with nut butter",
+        "description": "Apple slices with a spoon of peanut or almond butter."
+      },
+      "hydration": "Start the day with a glass of water before breakfast.",
+      "wellnessTip": "Take a 10-minute walk after a meal today.",
+      "nutritionTip": "Fill half your plate with vegetables or salad."
+    },
+    {
+      "day": 2,
+      "breakfast": {
+        "title": "Veggie scramble on whole-grain toast",
+        "description": "Eggs or tofu scrambled with spinach, tomatoes and peppers, served on whole-grain toast."
+      },
+      "lunch": {
+        "title": "Grilled chicken or tofu salad",
+        "description": "Mixed greens, grilled chicken or tofu, cucumber, carrots, seeds and an olive-oil dressing."
+      },
+      "dinner": {
+        "title": "Chicken and vegetable curry",
+        "description": "A mild tomato-based curry with chicken or chickpeas and vegetables, served with brown rice."
+      },
+      "snack": {
+        "title": "Small handful of nuts",
+        "description": "A small handful of unsalted mixed nuts."
+      },
+      "hydration": "Keep a refillable bottle within reach today.",
+      "wellnessTip": "Stand up and stretch for one minute every hour you sit.",
+      "nutritionTip": "Choose whole grains like oats, brown rice or whole-wheat bread more often."
+    },
+    {
+      "day": 3,
+      "breakfast": {
+        "title": "Yogurt parfait",
+        "description": "Plain yogurt layered with sliced fruit, a handful of oats and a sprinkle of nuts."
+      },
+      "lunch": {
+        "title": "Lentil and vegetable soup",
+        "description": "A hearty lentil soup with carrots, celery and tomatoes, served with whole-grain bread."
+      },
+      "dinner": {
+        "title": "Bean-rich chilli",
+        "description": "Turkey or lentil chilli with peppers and tomatoes, topped with yogurt and herbs."
+      },
+      "snack": {
+        "title": "Crackers and cheese",
+        "description": "Whole-grain crackers with a little cheese and cherry tomatoes."
+      },
+      "hydration": "Add cucumber, lemon or mint to your water for variety.",
+      "wellnessTip": "Try five slow breaths — in for four, out for six — when you feel rushed.",
+      "nutritionTip": "Include a protein source at every meal — beans, eggs, fish, tofu, dairy or lean meat."
+    },
+    {
+      "day": 4,
+      "breakfast": {
+        "title": "Banana and peanut butter toast",
+        "description": "Whole-grain toast with peanut butter, banana slices and a dusting of cinnamon."
+      },
+      "lunch": {
+        "title": "Whole-wheat wrap",
+        "description": "Turkey, hummus or falafel with crunchy salad vegetables in a whole-wheat wrap."
+      },
+      "dinner": {
+        "title": "Pasta primavera",
+        "description": "Whole-wheat pasta with seasonal vegetables, olive oil, garlic and a little parmesan."
+      },
+      "snack": {
+        "title": "Roasted chickpeas",
+        "description": "Oven-roasted chickpeas with paprika and a pinch of salt."
+      },
+      "hydration": "Have a glass of water with each meal today.",
+      "wellnessTip": "Aim for a consistent bedtime tonight.",
+      "nutritionTip": "Eat a variety of colourful fruits and vegetables across the week."
+    },
+    {
+      "day": 5,
+      "breakfast": {
+        "title": "Green breakfast smoothie",
+        "description": "Spinach, banana, frozen mango, yogurt or soy milk and a spoon of oats, blended smooth."
+      },
+      "lunch": {
+        "title": "Brown rice stir-fry",
+        "description": "Brown rice with stir-fried vegetables and edamame, prawns or tempeh."
+      },
+      "dinner": {
+        "title": "Tofu and greens stir-fry",
+        "description": "Tofu or lean beef stir-fried with bok choy, broccoli and mushrooms over soba noodles."
+      },
+      "snack": {
+        "title": "Steamed edamame",
+        "description": "A bowl of edamame with a squeeze of lime."
+      },
+      "hydration": "Sip water before and after your workout.",
+      "wellnessTip": "Spend a few minutes outside in daylight this morning.",
+      "nutritionTip": "Healthy fats from nuts, seeds, olive oil and avocado support a balanced diet."
+    },
+    {
+      "day": 6,
+      "breakfast": {
+        "title": "Savoury oat bowl",
+        "description": "Oats cooked in broth, topped with a soft egg or beans, sautéed mushrooms and herbs."
+      },
+      "lunch": {
+        "title": "Mediterranean grain salad",
+        "description": "Bulgur or farro with tomatoes, cucumber, olives, feta or white beans and fresh herbs."
+      },
+      "dinner": {
+        "title": "Sheet-pan chicken and roots",
+        "description": "Chicken thighs or chickpeas roasted with carrots, sweet potato and red onion."
+      },
+      "snack": {
+        "title": "Homemade trail mix",
+        "description": "Unsweetened mix of nuts, seeds and a few raisins."
+      },
+      "hydration": "Herbal teas count toward your fluids — enjoy one this afternoon.",
+      "wellnessTip": "Put your phone away during one meal and eat slowly.",
+      "nutritionTip": "Regular meals can help keep your energy steady through the day."
+    },
+    {
+      "day": 7,
+      "breakfast": {
+        "title": "Whole-grain breakfast wrap",
+        "description": "A whole-wheat tortilla filled with eggs or black beans, avocado and salsa."
+      },
+      "lunch": {
+        "title": "Bean burrito bowl",
+        "description": "Black beans, brown rice, corn, peppers, salsa and a little avocado."
+      },
+      "dinner": {
+        "title": "Fish tacos",
+        "description": "Grilled white fish or beans in corn tortillas with cabbage slaw and lime."
+      },
+      "snack": {
+        "title": "Cottage cheese and cucumber",
+        "description": "Cottage cheese or soy yogurt with cucumber slices and black pepper."
+      },
+      "hydration": "Set three mini check-ins today: morning, midday and afternoon.",
+      "wellnessTip": "Write down one thing you're grateful for.",
+      "nutritionTip": "Read food labels to spot added sugars and salt."
+    },
+    {
+      "day": 8,
+      "breakfast": {
+        "title": "Cottage cheese and fruit bowl",
+        "description": "Cottage cheese or soy yogurt with pineapple, kiwi and a few pumpkin seeds."
+      },
+      "lunch": {
+        "title": "Salmon or chickpea sandwich",
+        "description": "Whole-grain bread with salmon or smashed chickpeas, greens and a yogurt-herb spread."
+      },
+      "dinner": {
+        "title": "Vegetable frittata",
+        "description": "Eggs baked with spinach, peppers and onions, served with a mixed salad and bread."
+      },
+      "snack": {
+        "title": "Fruit smoothie",
+        "description": "A small smoothie of yogurt or soy milk, berries and half a banana."
+      },
+      "hydration": "Feeling tired? Try a glass of water and a short walk.",
+      "wellnessTip": "Take the stairs once today if you can.",
+      "nutritionTip": "Frozen fruits and vegetables are convenient and just as useful."
+    },
+    {
+      "day": 9,
+      "breakfast": {
+        "title": "Apple cinnamon porridge",
+        "description": "Oats simmered with grated apple, cinnamon and a handful of walnuts."
+      },
+      "lunch": {
+        "title": "Minestrone with side salad",
+        "description": "Vegetable and bean minestrone with a simple green salad."
+      },
+      "dinner": {
+        "title": "Lentil bolognese",
+        "description": "A rich lentil and tomato sauce over whole-grain spaghetti with a side salad."
+      },
+      "snack": {
+        "title": "Hummus and veggie sticks",
+        "description": "Carrot, cucumber and pepper sticks with hummus."
+      },
+      "hydration": "Water-rich foods like cucumber, oranges and watermelon help too.",
+      "wellnessTip": "Do a 5-minute stretch before bed.",
+      "nutritionTip": "Pulses like lentils and chickpeas are budget-friendly sources of protein and fibre."
+    },
+    {
+      "day": 10,
+      "breakfast": {
+        "title": "Avocado and tomato toast",
+        "description": "Smashed avocado on rye or whole-grain bread with tomato slices and a squeeze of lemon."
+      },
+      "lunch": {
+        "title": "Nourish bowl",
+        "description": "Sweet potato, greens, quinoa, roasted chickpeas and a ginger-sesame dressing."
+      },
+      "dinner": {
+        "title": "Stuffed peppers",
+        "description": "Peppers filled with brown rice, beans or lean mince, tomatoes and herbs."
+      },
+      "snack": {
+        "title": "Yogurt with berries",
+        "description": "Plain yogurt or a plant alternative with fresh or frozen berries."
+      },
+      "hydration": "Swap one sugary drink for sparkling water today.",
+      "wellnessTip": "Message a friend or family member you haven't spoken to lately.",
+      "nutritionTip": "Keep easy healthy snacks on hand, like fruit, yogurt or nuts."
+    },
+    {
+      "day": 11,
+      "breakfast": {
+        "title": "Muesli with fruit",
+        "description": "Unsweetened muesli with milk or a plant drink, topped with fresh seasonal fruit."
+      },
+      "lunch": {
+        "title": "Tuna or white bean pasta salad",
+        "description": "Whole-grain pasta with tuna or white beans, cherry tomatoes, spinach and olive oil."
+      },
+      "dinner": {
+        "title": "Grilled fish with herbed quinoa",
+        "description": "Grilled fish or tempeh with herbed quinoa and steamed green beans."
+      },
+      "snack": {
+        "title": "Banana and almonds",
+        "description": "A banana with a few almonds."
+      },
+      "hydration": "Start the day with a glass of water before breakfast.",
+      "wellnessTip": "Notice your posture — relax your shoulders away from your ears.",
+      "nutritionTip": "Herbs, spices and citrus add flavour without extra salt."
+    },
+    {
+      "day": 12,
+      "breakfast": {
+        "title": "Vegetable omelette",
+        "description": "An egg or chickpea-flour omelette with peppers, onion and herbs, plus whole-grain bread."
+      },
+      "lunch": {
+        "title": "Stuffed pita pocket",
+        "description": "Whole-grain pita filled with grilled vegetables, hummus and a protein of your choice."
+      },
+      "dinner": {
+        "title": "Chickpea and spinach stew",
+        "description": "Chickpeas simmered with spinach, tomatoes and warm spices, with whole-grain flatbread."
+      },
+      "snack": {
+        "title": "Orange and pumpkin seeds",
+        "description": "An orange with a small sprinkle of pumpkin seeds."
+      },
+      "hydration": "Keep a refillable bottle within reach today.",
+      "wellnessTip": "Plan tomorrow's meals so healthy choices are easy.",
+      "nutritionTip": "Eat slowly and pause mid-meal to notice how hungry you still are."
+    },
+    {
+      "day": 13,
+      "breakfast": {
+        "title": "Buckwheat pancakes",
+        "description": "Small buckwheat or oat pancakes served with yogurt and berries."
+      },
+      "lunch": {
+        "title": "Chicken or tofu noodle soup",
+        "description": "A light broth with whole-grain noodles, vegetables and chicken or tofu."
+      },
+      "dinner": {
+        "title": "Homemade veggie pizza",
+        "description": "A whole-wheat base with tomato sauce, plenty of vegetables and a moderate amount of cheese."
+      },
+      "snack": {
+        "title": "Rice cake with avocado",
+        "description": "A whole-grain rice cake topped with mashed avocado."
+      },
+      "hydration": "Add cucumber, lemon or mint to your water for variety.",
+      "wellnessTip": "Give your eyes a break: look at something far away for 20 seconds.",
+      "nutritionTip": "Batch-cook grains and beans to make balanced meals quicker."
+    },
+    {
+      "day": 14,
+      "breakfast": {
+        "title": "Chia pudding",
+        "description": "Chia seeds soaked overnight in milk or soy milk, topped with mango and toasted coconut."
+      },
+      "lunch": {
+        "title": "Rainbow grain bowl",
+        "description": "Barley or brown rice with red cabbage, carrots, edamame, avocado and a citrus dressing."
+      },
+      "dinner": {
+        "title": "Teriyaki bowl",
+        "description": "Chicken or tofu in a light homemade teriyaki sauce with brown rice, edamame and steamed vegetables."
+      },
+      "snack": {
+        "title": "Pear and walnuts",
+        "description": "A ripe pear with a few walnut halves."
+      },
+      "hydration": "Have a glass of water with each meal today.",
+      "wellnessTip": "Celebrate a small win from this week.",
+      "nutritionTip": "Enjoy treats mindfully — balance matters more than perfection."
+    },
+    {
+      "day": 15,
+      "breakfast": {
+        "title": "Hummus and egg plate",
+        "description": "Whole-grain pita with hummus, a boiled egg, cucumber and cherry tomatoes."
+      },
+      "lunch": {
+        "title": "Egg and veggie fried rice",
+        "description": "Brown rice stir-fried with egg or tofu, peas, carrots and spring onion."
+      },
+      "dinner": {
+        "title": "Bean and barley bake",
+        "description": "A comforting bake of beans, barley and root vegetables with herbs."
+      },
+      "snack": {
+        "title": "Dates and nuts",
+        "description": "Two dates with a few nuts for a naturally sweet bite."
+      },
+      "hydration": "Sip water before and after your workout.",
+      "wellnessTip": "Try a new vegetable or fruit this week.",
+      "nutritionTip": "Oily fish once or twice a week is a common recommendation; plant eaters can use seeds and walnuts."
+    },
+    {
+      "day": 16,
+      "breakfast": {
+        "title": "Overnight oats with berries",
+        "description": "Rolled oats soaked in milk or a fortified plant drink, topped with mixed berries and a spoon of chia seeds."
+      },
+      "lunch": {
+        "title": "Mediterranean grain salad",
+        "description": "Bulgur or farro with tomatoes, cucumber, olives, feta or white beans and fresh herbs."
+      },
+      "dinner": {
+        "title": "Stuffed peppers",
+        "description": "Peppers filled with brown rice, beans or lean mince, tomatoes and herbs."
+      },
+      "snack": {
+        "title": "Yogurt with berries",
+        "description": "Plain yogurt or a plant alternative with fresh or frozen berries."
+      },
+      "hydration": "Herbal teas count toward your fluids — enjoy one this afternoon.",
+      "wellnessTip": "Rest is part of training — enjoy a lighter movement day if you need it.",
+      "nutritionTip": "Include a fruit or vegetable with breakfast."
+    },
+    {
+      "day": 17,
+      "breakfast": {
+        "title": "Veggie scramble on whole-grain toast",
+        "description": "Eggs or tofu scrambled with spinach, tomatoes and peppers, served on whole-grain toast."
+      },
+      "lunch": {
+        "title": "Bean burrito bowl",
+        "description": "Black beans, brown rice, corn, peppers, salsa and a little avocado."
+      },
+      "dinner": {
+        "title": "Grilled fish with herbed quinoa",
+        "description": "Grilled fish or tempeh with herbed quinoa and steamed green beans."
+      },
+      "snack": {
+        "title": "Banana and almonds",
+        "description": "A banana with a few almonds."
+      },
+      "hydration": "Set three mini check-ins today: morning, midday and afternoon.",
+      "wellnessTip": "Unplug from screens 30 minutes before bed.",
+      "nutritionTip": "Pair carbohydrates with protein and fibre for longer-lasting energy."
+    },
+    {
+      "day": 18,
+      "breakfast": {
+        "title": "Yogurt parfait",
+        "description": "Plain yogurt layered with sliced fruit, a handful of oats and a sprinkle of nuts."
+      },
+      "lunch": {
+        "title": "Salmon or chickpea sandwich",
+        "description": "Whole-grain bread with salmon or smashed chickpeas, greens and a yogurt-herb spread."
+      },
+      "dinner": {
+        "title": "Chickpea and spinach stew",
+        "description": "Chickpeas simmered with spinach, tomatoes and warm spices, with whole-grain flatbread."
+      },
+      "snack": {
+        "title": "Orange and pumpkin seeds",
+        "description": "An orange with a small sprinkle of pumpkin seeds."
+      },
+      "hydration": "Feeling tired? Try a glass of water and a short walk.",
+      "wellnessTip": "Take a mindful minute: notice five things you can see.",
+      "nutritionTip": "Plan a simple shopping list around the meals in your plan."
+    },
+    {
+      "day": 19,
+      "breakfast": {
+        "title": "Banana and peanut butter toast",
+        "description": "Whole-grain toast with peanut butter, banana slices and a dusting of cinnamon."
+      },
+      "lunch": {
+        "title": "Minestrone with side salad",
+        "description": "Vegetable and bean minestrone with a simple green salad."
+      },
+      "dinner": {
+        "title": "Homemade veggie pizza",
+        "description": "A whole-wheat base with tomato sauce, plenty of vegetables and a moderate amount of cheese."
+      },
+      "snack": {
+        "title": "Rice cake with avocado",
+        "description": "A whole-grain rice cake topped with mashed avocado."
+      },
+      "hydration": "Water-rich foods like cucumber, oranges and watermelon help too.",
+      "wellnessTip": "Prepare a healthy snack in advance for the afternoon.",
+      "nutritionTip": "If you have allergies or a medical condition, adapt meals with a registered dietitian."
+    },
+    {
+      "day": 20,
+      "breakfast": {
+        "title": "Green breakfast smoothie",
+        "description": "Spinach, banana, frozen mango, yogurt or soy milk and a spoon of oats, blended smooth."
+      },
+      "lunch": {
+        "title": "Nourish bowl",
+        "description": "Sweet potato, greens, quinoa, roasted chickpeas and a ginger-sesame dressing."
+      },
+      "dinner": {
+        "title": "Teriyaki bowl",
+        "description": "Chicken or tofu in a light homemade teriyaki sauce with brown rice, edamame and steamed vegetables."
+      },
+      "snack": {
+        "title": "Pear and walnuts",
+        "description": "A ripe pear with a few walnut halves."
+      },
+      "hydration": "Swap one sugary drink for sparkling water today.",
+      "wellnessTip": "Go for a walk with someone and chat.",
+      "nutritionTip": "Listen to hunger and fullness cues rather than strict rules."
+    },
+    {
+      "day": 21,
+      "breakfast": {
+        "title": "Savoury oat bowl",
+        "description": "Oats cooked in broth, topped with a soft egg or beans, sautéed mushrooms and herbs."
+      },
+      "lunch": {
+        "title": "Tuna or white bean pasta salad",
+        "description": "Whole-grain pasta with tuna or white beans, cherry tomatoes, spinach and olive oil."
+      },
+      "dinner": {
+        "title": "Bean and barley bake",
+        "description": "A comforting bake of beans, barley and root vegetables with herbs."
+      },
+      "snack": {
+        "title": "Dates and nuts",
+        "description": "Two dates with a few nuts for a naturally sweet bite."
+      },
+      "hydration": "Start the day with a glass of water before breakfast.",
+      "wellnessTip": "Tidy one small space — a calm environment can feel restful.",
+      "nutritionTip": "Fill half your plate with vegetables or salad."
+    },
+    {
+      "day": 22,
+      "breakfast": {
+        "title": "Whole-grain breakfast wrap",
+        "description": "A whole-wheat tortilla filled with eggs or black beans, avocado and salsa."
+      },
+      "lunch": {
+        "title": "Stuffed pita pocket",
+        "description": "Whole-grain pita filled with grilled vegetables, hummus and a protein of your choice."
+      },
+      "dinner": {
+        "title": "Baked salmon with vegetables",
+        "description": "Oven-baked salmon or marinated tofu with roasted broccoli and new potatoes."
+      },
+      "snack": {
+        "title": "Apple with nut butter",
+        "description": "Apple slices with a spoon of peanut or almond butter."
+      },
+      "hydration": "Keep a refillable bottle within reach today.",
+      "wellnessTip": "Listen to a favourite song and move to it.",
+      "nutritionTip": "Choose whole grains like oats, brown rice or whole-wheat bread more often."
+    },
+    {
+      "day": 23,
+      "breakfast": {
+        "title": "Cottage cheese and fruit bowl",
+        "description": "Cottage cheese or soy yogurt with pineapple, kiwi and a few pumpkin seeds."
+      },
+      "lunch": {
+        "title": "Chicken or tofu noodle soup",
+        "description": "A light broth with whole-grain noodles, vegetables and chicken or tofu."
+      },
+      "dinner": {
+        "title": "Chicken and vegetable curry",
+        "description": "A mild tomato-based curry with chicken or chickpeas and vegetables, served with brown rice."
+      },
+      "snack": {
+        "title": "Small handful of nuts",
+        "description": "A small handful of unsalted mixed nuts."
+      },
+      "hydration": "Add cucumber, lemon or mint to your water for variety.",
+      "wellnessTip": "Check in with your energy: what helped today?",
+      "nutritionTip": "Include a protein source at every meal — beans, eggs, fish, tofu, dairy or lean meat."
+    },
+    {
+      "day": 24,
+      "breakfast": {
+        "title": "Apple cinnamon porridge",
+        "description": "Oats simmered with grated apple, cinnamon and a handful of walnuts."
+      },
+      "lunch": {
+        "title": "Rainbow grain bowl",
+        "description": "Barley or brown rice with red cabbage, carrots, edamame, avocado and a citrus dressing."
+      },
+      "dinner": {
+        "title": "Bean-rich chilli",
+        "description": "Turkey or lentil chilli with peppers and tomatoes, topped with yogurt and herbs."
+      },
+      "snack": {
+        "title": "Crackers and cheese",
+        "description": "Whole-grain crackers with a little cheese and cherry tomatoes."
+      },
+      "hydration": "Have a glass of water with each meal today.",
+      "wellnessTip": "Stretch your hips and hamstrings after long sitting.",
+      "nutritionTip": "Eat a variety of colourful fruits and vegetables across the week."
+    },
+    {
+      "day": 25,
+      "breakfast": {
+        "title": "Avocado and tomato toast",
+        "description": "Smashed avocado on rye or whole-grain bread with tomato slices and a squeeze of lemon."
+      },
+      "lunch": {
+        "title": "Egg and veggie fried rice",
+        "description": "Brown rice stir-fried with egg or tofu, peas, carrots and spring onion."
+      },
+      "dinner": {
+        "title": "Pasta primavera",
+        "description": "Whole-wheat pasta with seasonal vegetables, olive oil, garlic and a little parmesan."
+      },
+      "snack": {
+        "title": "Roasted chickpeas",
+        "description": "Oven-roasted chickpeas with paprika and a pinch of salt."
+      },
+      "hydration": "Sip water before and after your workout.",
+      "wellnessTip": "Practise saying no to one thing that drains you.",
+      "nutritionTip": "Healthy fats from nuts, seeds, olive oil and avocado support a balanced diet."
+    },
+    {
+      "day": 26,
+      "breakfast": {
+        "title": "Muesli with fruit",
+        "description": "Unsweetened muesli with milk or a plant drink, topped with fresh seasonal fruit."
+      },
+      "lunch": {
+        "title": "Quinoa power bowl",
+        "description": "Quinoa with roasted vegetables, chickpeas, leafy greens and a lemon-tahini dressing."
+      },
+      "dinner": {
+        "title": "Tofu and greens stir-fry",
+        "description": "Tofu or lean beef stir-fried with bok choy, broccoli and mushrooms over soba noodles."
+      },
+      "snack": {
+        "title": "Steamed edamame",
+        "description": "A bowl of edamame with a squeeze of lime."
+      },
+      "hydration": "Herbal teas count toward your fluids — enjoy one this afternoon.",
+      "wellnessTip": "Try a short body scan before sleep.",
+      "nutritionTip": "Regular meals can help keep your energy steady through the day."
+    },
+    {
+      "day": 27,
+      "breakfast": {
+        "title": "Vegetable omelette",
+        "description": "An egg or chickpea-flour omelette with peppers, onion and herbs, plus whole-grain bread."
+      },
+      "lunch": {
+        "title": "Grilled chicken or tofu salad",
+        "description": "Mixed greens, grilled chicken or tofu, cucumber, carrots, seeds and an olive-oil dressing."
+      },
+      "dinner": {
+        "title": "Sheet-pan chicken and roots",
+        "description": "Chicken thighs or chickpeas roasted with carrots, sweet potato and red onion."
+      },
+      "snack": {
+        "title": "Homemade trail mix",
+        "description": "Unsweetened mix of nuts, seeds and a few raisins."
+      },
+      "hydration": "Set three mini check-ins today: morning, midday and afternoon.",
+      "wellnessTip": "Cook one meal at home this week with a friend or family member.",
+      "nutritionTip": "Read food labels to spot added sugars and salt."
+    },
+    {
+      "day": 28,
+      "breakfast": {
+        "title": "Buckwheat pancakes",
+        "description": "Small buckwheat or oat pancakes served with yogurt and berries."
+      },
+      "lunch": {
+        "title": "Lentil and vegetable soup",
+        "description": "A hearty lentil soup with carrots, celery and tomatoes, served with whole-grain bread."
+      },
+      "dinner": {
+        "title": "Fish tacos",
+        "description": "Grilled white fish or beans in corn tortillas with cabbage slaw and lime."
+      },
+      "snack": {
+        "title": "Cottage cheese and cucumber",
+        "description": "Cottage cheese or soy yogurt with cucumber slices and black pepper."
+      },
+      "hydration": "Feeling tired? Try a glass of water and a short walk.",
+      "wellnessTip": "Spend time on a hobby that makes you lose track of time.",
+      "nutritionTip": "Frozen fruits and vegetables are convenient and just as useful."
+    },
+    {
+      "day": 29,
+      "breakfast": {
+        "title": "Chia pudding",
+        "description": "Chia seeds soaked overnight in milk or soy milk, topped with mango and toasted coconut."
+      },
+      "lunch": {
+        "title": "Whole-wheat wrap",
+        "description": "Turkey, hummus or falafel with crunchy salad vegetables in a whole-wheat wrap."
+      },
+      "dinner": {
+        "title": "Vegetable frittata",
+        "description": "Eggs baked with spinach, peppers and onions, served with a mixed salad and bread."
+      },
+      "snack": {
+        "title": "Fruit smoothie",
+        "description": "A small smoothie of yogurt or soy milk, berries and half a banana."
+      },
+      "hydration": "Water-rich foods like cucumber, oranges and watermelon help too.",
+      "wellnessTip": "Reflect on how far you've come since Day 1.",
+      "nutritionTip": "Pulses like lentils and chickpeas are budget-friendly sources of protein and fibre."
+    },
+    {
+      "day": 30,
+      "breakfast": {
+        "title": "Hummus and egg plate",
+        "description": "Whole-grain pita with hummus, a boiled egg, cucumber and cherry tomatoes."
+      },
+      "lunch": {
+        "title": "Brown rice stir-fry",
+        "description": "Brown rice with stir-fried vegetables and edamame, prawns or tempeh."
+      },
+      "dinner": {
+        "title": "Lentil bolognese",
+        "description": "A rich lentil and tomato sauce over whole-grain spaghetti with a side salad."
+      },
+      "snack": {
+        "title": "Hummus and veggie sticks",
+        "description": "Carrot, cucumber and pepper sticks with hummus."
+      },
+      "hydration": "Swap one sugary drink for sparkling water today.",
+      "wellnessTip": "Plan how you'll keep moving after this 30-day plan — consistency beats intensity.",
+      "nutritionTip": "Keep easy healthy snacks on hand, like fruit, yogurt or nuts."
+    }
+  ]
+}

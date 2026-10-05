@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "elementOpeners": {
+    "Fire": [
+      "Your natural spark is easy to notice today.",
+      "Enthusiasm comes easily, so channel it into something you enjoy.",
+      "A bold, playful mood colours the day.",
+      "Your energy is high — pace it so it lasts.",
+      "Today rewards courage in small, everyday choices."
+    ],
+    "Earth": [
+      "Steady routines feel especially satisfying today.",
+      "Your practical side shines; small actions add up.",
+      "Grounding habits help you feel at your best.",
+      "Patience is your quiet strength today.",
+      "A calm, methodical approach suits the day."
+    ],
+    "Air": [
+      "Curiosity leads you somewhere interesting today.",
+      "Conversations flow easily — share an idea.",
+      "A fresh perspective makes a familiar task more fun.",
+      "Your mind is buzzing; jot your thoughts down.",
+      "Lightness and humour carry you through the day."
+    ],
+    "Water": [
+      "Your intuition feels clear and gentle today.",
+      "Kindness toward yourself sets a warm tone.",
+      "Quiet moments help you recharge.",
+      "You may feel especially connected to people close to you.",
+      "Creativity flows when you give it some space."
+    ]
+  },
+  "general": [
+    "It's a good day to try something slightly outside your comfort zone, like a new route for your walk.",
+    "Small, consistent steps feel more rewarding than big leaps right now.",
+    "Someone may appreciate your encouragement more than you expect.",
+    "Clearing one small task early could free your mind for the rest of the day.",
+    "A short break outdoors might bring a new idea.",
+    "Plans may shift a little — staying flexible keeps things light.",
+    "Focus on progress, not perfection, in whatever you take on.",
+    "A favourite song or playlist could lift your mood at the right moment.",
+    "Sharing a meal or a chat could be the highlight of your day.",
+    "Your attention to detail helps something come together nicely.",
+    "Take a moment to notice what's going well — there's more than you think.",
+    "Learning something new, even for ten minutes, feels satisfying today.",
+    "A tidy space might help you feel more focused.",
+    "It's a nice day to reconnect with a hobby you've missed.",
+    "Saying yes to rest is just as valuable as saying yes to activity.",
+    "Your sense of humour makes an ordinary moment memorable.",
+    "Look for the simple version of a task; it may be all you need.",
+    "Gratitude for small things sets a positive tone for the evening.",
+    "Trying a new recipe or ingredient could be fun.",
+    "A thoughtful message could brighten someone's day — and yours."
+  ],
+  "motivation": [
+    "Show up for five minutes; momentum will often do the rest.",
+    "Every rep is a vote for the person you're becoming.",
+    "Consistency beats intensity — keep the streak gentle and real.",
+    "Your only comparison is who you were yesterday.",
+    "Progress loves patience.",
+    "Strong is built one ordinary day at a time.",
+    "Move because you care about yourself, not to punish yourself.",
+    "Celebrate effort, not just outcomes.",
+    "Small wins stacked together become big change.",
+    "Breathe, focus, begin.",
+    "Rest is part of the plan, not a break from it.",
+    "You don't have to feel ready to start — starting helps you feel ready.",
+    "Energy grows when you use it well.",
+    "Today counts, even if it's a lighter day.",
+    "Keep it simple: water, movement, rest, repeat.",
+    "Your future self will thank you for today's effort.",
+    "Discipline is remembering what you want most.",
+    "Done is better than perfect.",
+    "Be proud of how far you've already come.",
+    "Find the joy in moving your body."
+  ],
+  "wellness": [
+    "Try a short walk after lunch to stretch your legs.",
+    "Keep water nearby and sip regularly.",
+    "A few minutes of stretching tonight could help you unwind.",
+    "Take three slow, deep breaths before your next task.",
+    "Step outside for some daylight if you can.",
+    "Give your eyes a screen break every hour.",
+    "A balanced snack with protein and fruit can keep energy steady.",
+    "Wind down with a calm routine before bed.",
+    "Check your posture and relax your shoulders.",
+    "Mobility work for hips and back feels great today.",
+    "Choose a colourful vegetable with dinner.",
+    "Laughing with a friend is good for the mood.",
+    "Plan a gentle movement session if you're feeling tired.",
+    "Write down one thing you're looking forward to.",
+    "A tidy, quiet space can help you relax.",
+    "Listen to your body and rest when you need to.",
+    "Stretch your calves and hamstrings after sitting.",
+    "Try a 5-minute mindfulness pause.",
+    "Prepare tomorrow's water bottle tonight.",
+    "Enjoy your meals without distractions today."
+  ],
+  "colors": [
+    {
+      "name": "Electric blue",
+      "hex": "#3D7BFF"
+    },
+    {
+      "name": "Neon violet",
+      "hex": "#8B6CFF"
+    },
+    {
+      "name": "Aqua",
+      "hex": "#22E4FF"
+    },
+    {
+      "name": "Mint",
+      "hex": "#3DF5B0"
+    },
+    {
+      "name": "Sunset orange",
+      "hex": "#FF8A4C"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#FF5AD9"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFC15A"
+    },
+    {
+      "name": "Coral",
+      "hex": "#FF6F7D"
+    },
+    {
+      "name": "Emerald",
+      "hex": "#21C47B"
+    },
+    {
+      "name": "Sky",
+      "hex": "#7FD3FF"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#B9A6FF"
+    },
+    {
+      "name": "Silver",
+      "hex": "#C9CFDD"
+    },
+    {
+      "name": "Ruby",
+      "hex": "#E0315B"
+    },
+    {
+      "name": "Turquoise",
+      "hex": "#1FC8C8"
+    }
+  ]
+}
