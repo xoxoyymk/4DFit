@@ -1,0 +1,1051 @@
+{
+  "version": 1,
+  "exercises": [
+    {
+      "id": "squat",
+      "name": "Bodyweight Squat",
+      "description": "A foundational movement that builds leg strength and makes everyday actions like sitting and standing easier.",
+      "categories": [
+        "LOWER_BODY",
+        "FULL_BODY"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Quadriceps",
+        "Glutes",
+        "Hamstrings",
+        "Core"
+      ],
+      "sets": 3,
+      "reps": 12,
+      "durationSeconds": 36,
+      "restSeconds": 45,
+      "motion": "SQUAT",
+      "tempo": "normal",
+      "safety": [
+        "Keep your heels on the floor and knees tracking in line with your toes.",
+        "Lower only as far as you can while keeping your back neutral.",
+        "Stop if you feel sharp pain in your knees, hips or back."
+      ],
+      "mistakes": [
+        "Letting the knees cave inward",
+        "Rounding the lower back at the bottom",
+        "Shifting weight onto the toes"
+      ]
+    },
+    {
+      "id": "jumping_jacks",
+      "name": "Jumping Jacks",
+      "description": "A classic full-body warm-up that raises your heart rate and wakes up the shoulders and hips.",
+      "categories": [
+        "CARDIO",
+        "FULL_BODY"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Calves",
+        "Shoulders",
+        "Hip abductors",
+        "Heart & lungs"
+      ],
+      "sets": 3,
+      "reps": null,
+      "durationSeconds": 40,
+      "restSeconds": 30,
+      "motion": "JUMPING_JACK",
+      "tempo": "fast",
+      "safety": [
+        "Land softly with slightly bent knees.",
+        "For a low-impact version, step one foot out at a time instead of jumping.",
+        "Choose a non-slip surface and supportive shoes."
+      ],
+      "mistakes": [
+        "Landing with locked knees",
+        "Holding your breath",
+        "Letting arms swing loosely without control"
+      ]
+    },
+    {
+      "id": "knee_pushup",
+      "name": "Knee Push-Up",
+      "description": "A push-up variation with knees down that builds pressing strength while you master form.",
+      "categories": [
+        "UPPER_BODY"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Chest",
+        "Triceps",
+        "Front shoulders",
+        "Core"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "durationSeconds": 30,
+      "restSeconds": 45,
+      "motion": "PUSH_UP",
+      "tempo": "normal",
+      "safety": [
+        "Place a soft mat under your knees.",
+        "Keep a straight line from head to knees.",
+        "Lower with control; stop if your shoulders or wrists hurt."
+      ],
+      "mistakes": [
+        "Hips sagging or piking up",
+        "Flaring elbows straight out to the sides",
+        "Dropping the head forward"
+      ]
+    },
+    {
+      "id": "forearm_plank",
+      "name": "Forearm Plank",
+      "description": "An isometric hold that trains your core to keep the spine steady and supported.",
+      "categories": [
+        "CORE"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Deep core",
+        "Shoulders",
+        "Glutes"
+      ],
+      "sets": 3,
+      "reps": null,
+      "durationSeconds": 30,
+      "restSeconds": 30,
+      "motion": "PLANK",
+      "tempo": "slow",
+      "safety": [
+        "Elbows directly under shoulders.",
+        "Breathe steadily throughout the hold.",
+        "Drop to your knees if your lower back starts to ache."
+      ],
+      "mistakes": [
+        "Letting the hips sag",
+        "Pushing the hips too high",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "glute_bridge",
+      "name": "Glute Bridge",
+      "description": "Strengthens the back of the body and supports healthy hips, especially after long periods of sitting.",
+      "categories": [
+        "LOWER_BODY",
+        "CORE"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Glutes",
+        "Hamstrings",
+        "Lower back"
+      ],
+      "sets": 3,
+      "reps": 15,
+      "durationSeconds": 45,
+      "restSeconds": 40,
+      "motion": "GLUTE_BRIDGE",
+      "tempo": "normal",
+      "safety": [
+        "Press through your whole foot, not just the toes.",
+        "Lift until hips align with knees and shoulders — avoid over-arching.",
+        "Keep your neck relaxed on the floor."
+      ],
+      "mistakes": [
+        "Pushing through the toes",
+        "Arching the lower back at the top",
+        "Rushing the lowering phase"
+      ]
+    },
+    {
+      "id": "crunch",
+      "name": "Controlled Crunch",
+      "description": "A small, controlled curl that strengthens the front of the core.",
+      "categories": [
+        "CORE"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Rectus abdominis",
+        "Obliques"
+      ],
+      "sets": 3,
+      "reps": 15,
+      "durationSeconds": 45,
+      "restSeconds": 30,
+      "motion": "CRUNCH",
+      "tempo": "normal",
+      "safety": [
+        "Support your head lightly; don't pull on your neck.",
+        "Keep your lower back in contact with the floor.",
+        "Move slowly and exhale as you curl up."
+      ],
+      "mistakes": [
+        "Yanking the head with the hands",
+        "Using momentum",
+        "Lifting too high off the floor"
+      ]
+    },
+    {
+      "id": "cat_cow",
+      "name": "Cat–Cow",
+      "description": "A gentle flowing movement that mobilises the whole spine in time with your breath.",
+      "categories": [
+        "MOBILITY"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Spine",
+        "Upper back",
+        "Hips"
+      ],
+      "sets": 2,
+      "reps": null,
+      "durationSeconds": 45,
+      "restSeconds": 15,
+      "motion": "CAT_COW",
+      "tempo": "slow",
+      "safety": [
+        "Hands under shoulders, knees under hips.",
+        "Move within a comfortable range.",
+        "Use a cushion under the knees if needed."
+      ],
+      "mistakes": [
+        "Moving too quickly",
+        "Forcing the end range",
+        "Locking the elbows"
+      ]
+    },
+    {
+      "id": "side_stretch",
+      "name": "Standing Side Stretch",
+      "description": "Opens the sides of the body and helps you breathe more freely.",
+      "categories": [
+        "STRETCHING",
+        "MOBILITY"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Obliques",
+        "Lats",
+        "Intercostals"
+      ],
+      "sets": 2,
+      "reps": null,
+      "durationSeconds": 30,
+      "restSeconds": 10,
+      "motion": "SIDE_STRETCH",
+      "tempo": "slow",
+      "safety": [
+        "Keep both feet grounded.",
+        "Reach up and over rather than collapsing sideways.",
+        "Stop at a gentle stretch, never pain."
+      ],
+      "mistakes": [
+        "Twisting the torso",
+        "Bouncing into the stretch",
+        "Shrugging the shoulders"
+      ]
+    },
+    {
+      "id": "forward_fold",
+      "name": "Standing Forward Fold",
+      "description": "A calming stretch for the back of the legs and spine.",
+      "categories": [
+        "STRETCHING"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Hamstrings",
+        "Calves",
+        "Lower back"
+      ],
+      "sets": 2,
+      "reps": null,
+      "durationSeconds": 30,
+      "restSeconds": 10,
+      "motion": "FORWARD_FOLD",
+      "tempo": "slow",
+      "safety": [
+        "Bend your knees as much as you need.",
+        "Hinge from the hips and let the head hang.",
+        "Roll up slowly to avoid dizziness."
+      ],
+      "mistakes": [
+        "Locking the knees",
+        "Bouncing",
+        "Standing up too quickly"
+      ]
+    },
+    {
+      "id": "arm_circles",
+      "name": "Arm Circles",
+      "description": "Warms up the shoulder joints with small, controlled circles in both directions.",
+      "categories": [
+        "MOBILITY",
+        "UPPER_BODY"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Shoulders",
+        "Upper back"
+      ],
+      "sets": 2,
+      "reps": null,
+      "durationSeconds": 30,
+      "restSeconds": 15,
+      "motion": "ARM_CIRCLES",
+      "tempo": "fast",
+      "safety": [
+        "Start with small circles and grow gradually.",
+        "Keep your shoulders away from your ears.",
+        "Switch direction halfway through."
+      ],
+      "mistakes": [
+        "Swinging wildly",
+        "Shrugging",
+        "Arching the lower back"
+      ]
+    },
+    {
+      "id": "marching",
+      "name": "Marching in Place",
+      "description": "A low-impact way to raise your heart rate — perfect for beginners and warm-ups.",
+      "categories": [
+        "CARDIO"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Hip flexors",
+        "Calves",
+        "Heart & lungs"
+      ],
+      "sets": 3,
+      "reps": null,
+      "durationSeconds": 45,
+      "restSeconds": 20,
+      "motion": "HIGH_KNEES",
+      "tempo": "slow",
+      "safety": [
+        "Stand tall and swing the opposite arm.",
+        "Land softly on the balls of your feet.",
+        "Go at a pace where you can still talk."
+      ],
+      "mistakes": [
+        "Leaning back",
+        "Looking down",
+        "Stiff arms"
+      ]
+    },
+    {
+      "id": "split_squat",
+      "name": "Static Split Squat",
+      "description": "A stable lunge variation that builds single-leg strength and balance.",
+      "categories": [
+        "LOWER_BODY"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Quadriceps",
+        "Glutes",
+        "Adductors"
+      ],
+      "sets": 3,
+      "reps": 16,
+      "durationSeconds": 48,
+      "restSeconds": 45,
+      "motion": "LUNGE",
+      "tempo": "normal",
+      "safety": [
+        "Hold a wall or chair for balance if needed.",
+        "Lower straight down; keep the front knee over the ankle.",
+        "Complete 8 reps on each side."
+      ],
+      "mistakes": [
+        "Front knee collapsing inward",
+        "Leaning the torso far forward",
+        "Too short a stance"
+      ]
+    },
+    {
+      "id": "shoulder_press",
+      "name": "Overhead Press",
+      "description": "Press light dumbbells or filled water bottles overhead to build shoulder strength.",
+      "categories": [
+        "UPPER_BODY"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "targetMuscles": [
+        "Shoulders",
+        "Triceps",
+        "Upper back"
+      ],
+      "sets": 3,
+      "reps": 12,
+      "durationSeconds": 36,
+      "restSeconds": 45,
+      "motion": "OVERHEAD_PRESS",
+      "tempo": "normal",
+      "safety": [
+        "Choose a weight you can lift with full control.",
+        "Brace your core and avoid arching the back.",
+        "Skip this if you have a shoulder injury."
+      ],
+      "mistakes": [
+        "Arching the lower back",
+        "Pressing the weights forward",
+        "Locking out aggressively"
+      ]
+    },
+    {
+      "id": "pushup",
+      "name": "Push-Up",
+      "description": "The classic bodyweight press that strengthens the chest, arms and core together.",
+      "categories": [
+        "UPPER_BODY",
+        "FULL_BODY"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "targetMuscles": [
+        "Chest",
+        "Triceps",
+        "Shoulders",
+        "Core"
+      ],
+      "sets": 3,
+      "reps": 12,
+      "durationSeconds": 36,
+      "restSeconds": 45,
+      "motion": "PUSH_UP",
+      "tempo": "normal",
+      "safety": [
+        "Hands slightly wider than shoulders.",
+        "Body stays in one straight line.",
+        "Drop to knee push-ups when form breaks down."
+      ],
+      "mistakes": [
+        "Hips sagging",
+        "Elbows flaring to 90°",
+        "Half reps"
+      ]
+    },
+    {
+      "id": "reverse_lunge",
+      "name": "Reverse Lunge",
+      "description": "Stepping backward makes lunges knee-friendly while training balance and leg strength.",
+      "categories": [
+        "LOWER_BODY"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "targetMuscles": [
+        "Quadriceps",
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sets": 3,
+      "reps": 20,
+      "durationSeconds": 60,
+      "restSeconds": 45,
+      "motion": "LUNGE",
+      "tempo": "normal",
+      "safety": [
+        "Step back far enough that both knees bend to about 90°.",
+        "Keep your chest tall.",
+        "Complete 10 reps on each leg."
+      ],
+      "mistakes": [
+        "Front heel lifting",
+        "Wobbling knee",
+        "Slamming the back knee down"
+      ]
+    },
+    {
+      "id": "mountain_climbers",
+      "name": "Mountain Climbers",
+      "description": "A dynamic plank that builds core stability and cardio fitness at the same time.",
+      "categories": [
+        "CARDIO",
+        "CORE",
+        "FULL_BODY"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "targetMuscles": [
+        "Core",
+        "Shoulders",
+        "Hip flexors",
+        "Heart & lungs"
+      ],
+      "sets": 3,
+      "reps": null,
+      "durationSeconds": 30,
+      "restSeconds": 30,
+      "motion": "MOUNTAIN_CLIMBER",
+      "tempo": "fast",
+      "safety": [
+        "Keep your hands under your shoulders.",
+        "Slow down to keep your hips level.",
+        "Place hands on a bench to make it easier."
+      ],
+      "mistakes": [
+        "Hips bouncing up and down",
+        "Shoulders drifting behind the hands",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "high_knees",
+      "name": "High Knees",
+      "description": "Running on the spot with knees driving high — a quick cardio burst.",
+      "categories": [
+        "CARDIO"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "targetMuscles": [
+        "Hip flexors",
+        "Quads",
+        "Calves",
+        "Heart & lungs"
+      ],
+      "sets": 3,
+      "reps": null,
+      "durationSeconds": 30,
+      "restSeconds": 30,
+      "motion": "HIGH_KNEES",
+      "tempo": "fast",
+      "safety": [
+        "Land lightly on the balls of your feet.",
+        "Keep your chest up.",
+        "March instead of running if you need lower impact."
+      ],
+      "mistakes": [
+        "Leaning backward",
+        "Landing heavily",
+        "Arms not moving"
+      ]
+    },
+    {
+      "id": "single_leg_bridge",
+      "name": "Single-Leg Glute Bridge",
+      "description": "A unilateral bridge that challenges hip stability and evens out strength between sides.",
+      "categories": [
+        "LOWER_BODY",
+        "CORE"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "targetMuscles": [
+        "Glutes",
+        "Hamstrings",
+        "Core"
+      ],
+      "sets": 3,
+      "reps": 20,
+      "durationSeconds": 60,
+      "restSeconds": 40,
+      "motion": "GLUTE_BRIDGE",
+      "tempo": "normal",
+      "safety": [
+        "Keep hips level as you lift.",
+        "Complete 10 reps on each leg.",
+        "Return to two legs if you feel cramping."
+      ],
+      "mistakes": [
+        "Hips tilting",
+        "Over-arching the back",
+        "Pushing through the toes"
+      ]
+    },
+    {
+      "id": "bicycle_crunch",
+      "name": "Bicycle Crunch",
+      "description": "A rotating crunch that trains the obliques with a smooth pedalling rhythm.",
+      "categories": [
+        "CORE"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "targetMuscles": [
+        "Obliques",
+        "Rectus abdominis",
+        "Hip flexors"
+      ],
+      "sets": 3,
+      "reps": 20,
+      "durationSeconds": 40,
+      "restSeconds": 30,
+      "motion": "CRUNCH",
+      "tempo": "normal",
+      "safety": [
+        "Rotate from the ribcage, not the elbows.",
+        "Keep the movement slow and controlled.",
+        "Keep the lower back in contact with the floor."
+      ],
+      "mistakes": [
+        "Pulling on the neck",
+        "Rushing the reps",
+        "Only moving the elbows"
+      ]
+    },
+    {
+      "id": "sumo_squat",
+      "name": "Sumo Squat",
+      "description": "A wide-stance squat that emphasises the inner thighs and hips.",
+      "categories": [
+        "LOWER_BODY"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "targetMuscles": [
+        "Inner thighs",
+        "Glutes",
+        "Quadriceps"
+      ],
+      "sets": 3,
+      "reps": 15,
+      "durationSeconds": 45,
+      "restSeconds": 40,
+      "motion": "SQUAT",
+      "tempo": "normal",
+      "safety": [
+        "Toes turned out slightly, knees follow the toes.",
+        "Keep your torso upright.",
+        "Only go as low as your hips comfortably allow."
+      ],
+      "mistakes": [
+        "Knees caving in",
+        "Leaning forward",
+        "Heels lifting"
+      ]
+    },
+    {
+      "id": "plank_shoulder_taps",
+      "name": "Plank Shoulder Taps",
+      "description": "From a high plank, tap each shoulder while resisting rotation through the hips.",
+      "categories": [
+        "CORE",
+        "UPPER_BODY"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "targetMuscles": [
+        "Core",
+        "Shoulders",
+        "Chest"
+      ],
+      "sets": 3,
+      "reps": 20,
+      "durationSeconds": 40,
+      "restSeconds": 30,
+      "motion": "SHOULDER_TAP",
+      "tempo": "normal",
+      "safety": [
+        "Widen your feet for more stability.",
+        "Move slowly so the hips stay still.",
+        "Perform from the knees to make it easier."
+      ],
+      "mistakes": [
+        "Hips swaying side to side",
+        "Sagging lower back",
+        "Rushing"
+      ]
+    },
+    {
+      "id": "hip_flexor_stretch",
+      "name": "Kneeling Hip Flexor Stretch",
+      "description": "Releases tight hips from sitting. Hold 30 seconds on each side.",
+      "categories": [
+        "STRETCHING",
+        "MOBILITY"
+      ],
+      "difficulty": "BEGINNER",
+      "targetMuscles": [
+        "Hip flexors",
+        "Quadriceps"
+      ],
+      "sets": 2,
+      "reps": null,
+      "durationSeconds": 60,
+      "restSeconds": 10,
+      "motion": "LUNGE",
+      "tempo": "slow",
+      "safety": [
+        "Pad the back knee.",
+        "Gently tuck the pelvis rather than leaning forward.",
+        "Hold a chair for balance if needed."
+      ],
+      "mistakes": [
+        "Arching the lower back",
+        "Front knee travelling past the toes",
+        "Holding the breath"
+      ]
+    },
+    {
+      "id": "thread_needle",
+      "name": "Thread the Needle",
+      "description": "An all-fours rotation that improves upper-back mobility. Alternate sides each rep.",
+      "categories": [
+        "MOBILITY"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "targetMuscles": [
+        "Thoracic spine",
+        "Shoulders",
+        "Upper back"
+      ],
+      "sets": 2,
+      "reps": null,
+      "durationSeconds": 40,
+      "restSeconds": 15,
+      "motion": "CAT_COW",
+      "tempo": "slow",
+      "safety": [
+        "Keep hips stacked over knees.",
+        "Rotate gently and follow your hand with your eyes.",
+        "Use a cushion under knees if needed."
+      ],
+      "mistakes": [
+        "Shifting the hips",
+        "Forcing the rotation",
+        "Collapsing onto the shoulder"
+      ]
+    },
+    {
+      "id": "jump_squat",
+      "name": "Jump Squat",
+      "description": "An explosive squat that builds power. Only add this once regular squats feel easy.",
+      "categories": [
+        "LOWER_BODY",
+        "CARDIO",
+        "FULL_BODY"
+      ],
+      "difficulty": "ADVANCED",
+      "targetMuscles": [
+        "Quadriceps",
+        "Glutes",
+        "Calves"
+      ],
+      "sets": 4,
+      "reps": 12,
+      "durationSeconds": 36,
+      "restSeconds": 60,
+      "motion": "JUMP_SQUAT",
+      "tempo": "fast",
+      "safety": [
+        "Land softly and sink straight into the next squat.",
+        "Use a non-slip surface.",
+        "Skip jumping if you have knee or ankle problems."
+      ],
+      "mistakes": [
+        "Landing with stiff legs",
+        "Knees caving on landing",
+        "Losing posture as you tire"
+      ]
+    },
+    {
+      "id": "diamond_pushup",
+      "name": "Diamond Push-Up",
+      "description": "Hands together under the chest shift the work onto the triceps.",
+      "categories": [
+        "UPPER_BODY"
+      ],
+      "difficulty": "ADVANCED",
+      "targetMuscles": [
+        "Triceps",
+        "Inner chest",
+        "Shoulders"
+      ],
+      "sets": 4,
+      "reps": 10,
+      "durationSeconds": 30,
+      "restSeconds": 60,
+      "motion": "PUSH_UP",
+      "tempo": "normal",
+      "safety": [
+        "Keep elbows close to the body.",
+        "Maintain a straight line from head to heels.",
+        "Widen the hands if your wrists feel strained."
+      ],
+      "mistakes": [
+        "Flaring elbows",
+        "Sagging hips",
+        "Shortened range"
+      ]
+    },
+    {
+      "id": "jump_lunge",
+      "name": "Alternating Jump Lunge",
+      "description": "A powerful plyometric lunge that switches legs in the air.",
+      "categories": [
+        "LOWER_BODY",
+        "CARDIO"
+      ],
+      "difficulty": "ADVANCED",
+      "targetMuscles": [
+        "Quadriceps",
+        "Glutes",
+        "Calves",
+        "Heart & lungs"
+      ],
+      "sets": 4,
+      "reps": 16,
+      "durationSeconds": 40,
+      "restSeconds": 60,
+      "motion": "LUNGE",
+      "tempo": "fast",
+      "safety": [
+        "Master reverse lunges first.",
+        "Land softly with control.",
+        "Switch to step-back lunges when tired."
+      ],
+      "mistakes": [
+        "Landing with a straight front leg",
+        "Front knee collapsing",
+        "Torso leaning far forward"
+      ]
+    },
+    {
+      "id": "burpee",
+      "name": "Burpee",
+      "description": "Squat, plank, return and stand — a demanding full-body conditioning move.",
+      "categories": [
+        "FULL_BODY",
+        "CARDIO"
+      ],
+      "difficulty": "ADVANCED",
+      "targetMuscles": [
+        "Full body",
+        "Heart & lungs"
+      ],
+      "sets": 4,
+      "reps": 10,
+      "durationSeconds": 50,
+      "restSeconds": 60,
+      "motion": "BURPEE",
+      "tempo": "normal",
+      "safety": [
+        "Step back instead of jumping to reduce impact.",
+        "Keep the core braced in the plank.",
+        "Pace yourself and rest whenever you need."
+      ],
+      "mistakes": [
+        "Sagging hips in the plank",
+        "Landing heavily",
+        "Sacrificing form for speed"
+      ]
+    },
+    {
+      "id": "plank_up_down",
+      "name": "Plank Up-Down",
+      "description": "Move between forearm and high plank while keeping the hips steady.",
+      "categories": [
+        "CORE",
+        "UPPER_BODY"
+      ],
+      "difficulty": "ADVANCED",
+      "targetMuscles": [
+        "Core",
+        "Triceps",
+        "Shoulders"
+      ],
+      "sets": 3,
+      "reps": null,
+      "durationSeconds": 40,
+      "restSeconds": 45,
+      "motion": "PLANK_UP_DOWN",
+      "tempo": "normal",
+      "safety": [
+        "Widen the feet to reduce rocking.",
+        "Alternate the leading arm.",
+        "Perform from the knees to scale it down."
+      ],
+      "mistakes": [
+        "Hips swinging side to side",
+        "Rushing",
+        "Sagging lower back"
+      ]
+    },
+    {
+      "id": "cross_climber",
+      "name": "Cross-Body Mountain Climber",
+      "description": "Drive each knee toward the opposite elbow to add rotation to the climber.",
+      "categories": [
+        "CORE",
+        "CARDIO"
+      ],
+      "difficulty": "ADVANCED",
+      "targetMuscles": [
+        "Obliques",
+        "Core",
+        "Shoulders",
+        "Heart & lungs"
+      ],
+      "sets": 4,
+      "reps": null,
+      "durationSeconds": 30,
+      "restSeconds": 45,
+      "motion": "MOUNTAIN_CLIMBER",
+      "tempo": "fast",
+      "safety": [
+        "Keep shoulders stacked over wrists.",
+        "Control the knee drive rather than speeding up.",
+        "Slow down if your hips bounce."
+      ],
+      "mistakes": [
+        "Hips piking up",
+        "Shoulders drifting back",
+        "Short, choppy knee drives"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "p_full_body_ignite",
+      "title": "Full Body Ignite",
+      "subtitle": "Whole-body energy boost",
+      "description": "A friendly session that warms you up, strengthens every major muscle group and finishes with a stretch.",
+      "categories": [
+        "FULL_BODY"
+      ],
+      "difficulty": "BEGINNER",
+      "exerciseIds": [
+        "jumping_jacks",
+        "squat",
+        "knee_pushup",
+        "glute_bridge",
+        "forearm_plank",
+        "side_stretch"
+      ],
+      "estimatedMinutes": 20
+    },
+    {
+      "id": "p_core_matrix",
+      "title": "Core Matrix",
+      "subtitle": "Stability from every angle",
+      "description": "Crunch, rotate, brace and climb — a complete core session that ends with spinal mobility.",
+      "categories": [
+        "CORE"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "exerciseIds": [
+        "crunch",
+        "bicycle_crunch",
+        "forearm_plank",
+        "plank_shoulder_taps",
+        "mountain_climbers",
+        "cat_cow"
+      ],
+      "estimatedMinutes": 19
+    },
+    {
+      "id": "p_mobility_flow",
+      "title": "Mobility Flow",
+      "subtitle": "Loosen up, move freely",
+      "description": "A calm flow for shoulders, spine and hips. Great on rest days or after sitting for long periods.",
+      "categories": [
+        "MOBILITY",
+        "STRETCHING"
+      ],
+      "difficulty": "BEGINNER",
+      "exerciseIds": [
+        "arm_circles",
+        "cat_cow",
+        "thread_needle",
+        "hip_flexor_stretch",
+        "side_stretch",
+        "forward_fold"
+      ],
+      "estimatedMinutes": 11
+    },
+    {
+      "id": "p_cardio_pulse",
+      "title": "Cardio Pulse",
+      "subtitle": "Heart-rate intervals",
+      "description": "Build from marching to high knees with short rests — no equipment needed.",
+      "categories": [
+        "CARDIO"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "exerciseIds": [
+        "marching",
+        "jumping_jacks",
+        "high_knees",
+        "mountain_climbers",
+        "sumo_squat",
+        "side_stretch"
+      ],
+      "estimatedMinutes": 19
+    },
+    {
+      "id": "p_upper_sculpt",
+      "title": "Upper Body Sculpt",
+      "subtitle": "Arms, chest and shoulders",
+      "description": "Pressing strength and shoulder stability using bodyweight and light weights.",
+      "categories": [
+        "UPPER_BODY"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "exerciseIds": [
+        "arm_circles",
+        "pushup",
+        "shoulder_press",
+        "plank_shoulder_taps",
+        "knee_pushup"
+      ],
+      "estimatedMinutes": 17
+    },
+    {
+      "id": "p_lower_power",
+      "title": "Lower Body Power",
+      "subtitle": "Legs and glutes",
+      "description": "Squats, lunges and bridges for strong, stable legs, finished with a hip release.",
+      "categories": [
+        "LOWER_BODY"
+      ],
+      "difficulty": "INTERMEDIATE",
+      "exerciseIds": [
+        "squat",
+        "reverse_lunge",
+        "sumo_squat",
+        "single_leg_bridge",
+        "hip_flexor_stretch"
+      ],
+      "estimatedMinutes": 21
+    },
+    {
+      "id": "p_morning_reset",
+      "title": "Morning Reset",
+      "subtitle": "Ten easy minutes to wake up",
+      "description": "Gentle movement to start the day feeling looser and more alert.",
+      "categories": [
+        "MOBILITY",
+        "STRETCHING"
+      ],
+      "difficulty": "BEGINNER",
+      "exerciseIds": [
+        "marching",
+        "arm_circles",
+        "cat_cow",
+        "side_stretch",
+        "forward_fold"
+      ],
+      "estimatedMinutes": 10
+    },
+    {
+      "id": "p_hybrid_x",
+      "title": "4D Hybrid X",
+      "subtitle": "Advanced power circuit",
+      "description": "A demanding circuit of plyometrics and strength. Make sure you're comfortable with the intermediate programs first.",
+      "categories": [
+        "FULL_BODY",
+        "CARDIO"
+      ],
+      "difficulty": "ADVANCED",
+      "exerciseIds": [
+        "burpee",
+        "jump_squat",
+        "diamond_pushup",
+        "jump_lunge",
+        "plank_up_down",
+        "cross_climber",
+        "forward_fold"
+      ],
+      "estimatedMinutes": 37
+    }
+  ]
+}

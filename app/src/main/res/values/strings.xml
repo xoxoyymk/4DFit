@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">4D FIT</string>
+    <string name="notification_channel_reminders">Reminders</string>
+    <string name="notification_channel_reminders_desc">Wellness, workout, hydration, meal and horoscope reminders you switch on in Settings.</string>
+</resources>
